@@ -3,7 +3,7 @@
 - 🔭 I’m currently Student in ...
 - 🌱 I learn Python, C++, PHP, Java
 - 👯 Part of Morai project
-- ⚡ Fun fact: Solidwork Enthusiast | AutoCAD Enthusiast | Metallurgical
+- ⚡ Fun fact: Solidwork Enthusiast | Bug Hunter Enthusiast
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zycoder0day&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=zycoder0day&layout=compact&theme=nightowl)
